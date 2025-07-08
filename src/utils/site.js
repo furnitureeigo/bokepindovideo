@@ -1,5 +1,5 @@
 export const url = 'https://bokepindovideo.pages.dev';
-export const nama = 'Bokep Indov Video';
+export const nama = 'Bokep Indo Video';
 export const desk = 'Video Bokep Indo Terbaru Bocil Ngentot Jilbab Smp Mama Viral Sma Cindo Tante';
 export const terbit = '2025-03-09T00:01:03Z';
 
